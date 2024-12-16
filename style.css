@@ -1,0 +1,42 @@
+body {
+    margin: 30px;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Verdana', fantasy;
+    background: #e2ff7945;
+}
+
+h1{
+    color: #04d932;
+    font-size: 80px;
+    font-weight: bold;
+    font-family: Georgia, serif;
+}
+
+p{
+    margin: 35px;
+    font-family: "Courier New", Courier, monospace;
+    font-style: oblique
+}
+
+p2{
+    font-size: larger;
+    font-family: Papyrus, fantasy;
+}
+
+p3{
+    font-size: 25px;
+    font-family: "Brush Script MT", cursive;
+}
+
+.vineyard {
+    width: 550px;
+}
+
+.failed {
+    width: 650px;
+}
+
+p4{
+    font-family: "Brush Script MT", cursive;
+}
